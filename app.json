@@ -1,0 +1,7 @@
+{
+    "name": "tf-career",
+    "description": "tf-career",
+    "repository": "https://github.com/Azrrael-exe/tf-career",
+    "image": "heroku/nodejs",
+    "addons": [ ]
+}
