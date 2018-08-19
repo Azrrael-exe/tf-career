@@ -24,6 +24,7 @@
   "homepage": "https://github.com/Azrrael-exe/tf-career#readme",
   "dependencies": {
     "@tensorflow/tfjs": "^0.12.5",
+    "angular-chart.js": "^1.1.1",
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
     "express": "^4.16.3",

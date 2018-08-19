@@ -1,1 +1,1 @@
-var app = angular.module('tf-career', ['ngRoute', 'ngResource'])
+var app = angular.module('tf-career', ['ngRoute', 'ngResource', 'tc.chartjs'])
